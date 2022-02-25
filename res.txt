@@ -1,0 +1,4 @@
+js function used :
+1.setInterval
+2.events
+
